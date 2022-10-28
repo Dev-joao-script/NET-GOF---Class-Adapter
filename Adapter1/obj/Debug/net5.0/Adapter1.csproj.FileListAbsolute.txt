@@ -1,0 +1,16 @@
+D:\_serie_design_patterns\__Estruturais\1_Adapter\Adapter1\Adapter1\obj\Debug\net5.0\Adapter1.csproj.AssemblyReference.cache
+D:\_serie_design_patterns\__Estruturais\1_Adapter\Adapter1\Adapter1\obj\Debug\net5.0\Adapter1.GeneratedMSBuildEditorConfig.editorconfig
+D:\_serie_design_patterns\__Estruturais\1_Adapter\Adapter1\Adapter1\obj\Debug\net5.0\Adapter1.AssemblyInfoInputs.cache
+D:\_serie_design_patterns\__Estruturais\1_Adapter\Adapter1\Adapter1\obj\Debug\net5.0\Adapter1.AssemblyInfo.cs
+D:\_serie_design_patterns\__Estruturais\1_Adapter\Adapter1\Adapter1\obj\Debug\net5.0\Adapter1.csproj.CoreCompileInputs.cache
+D:\_serie_design_patterns\__Estruturais\1_Adapter\Adapter1\Adapter1\bin\Debug\net5.0\Adapter1.exe
+D:\_serie_design_patterns\__Estruturais\1_Adapter\Adapter1\Adapter1\bin\Debug\net5.0\Adapter1.deps.json
+D:\_serie_design_patterns\__Estruturais\1_Adapter\Adapter1\Adapter1\bin\Debug\net5.0\Adapter1.runtimeconfig.json
+D:\_serie_design_patterns\__Estruturais\1_Adapter\Adapter1\Adapter1\bin\Debug\net5.0\Adapter1.runtimeconfig.dev.json
+D:\_serie_design_patterns\__Estruturais\1_Adapter\Adapter1\Adapter1\bin\Debug\net5.0\Adapter1.dll
+D:\_serie_design_patterns\__Estruturais\1_Adapter\Adapter1\Adapter1\bin\Debug\net5.0\ref\Adapter1.dll
+D:\_serie_design_patterns\__Estruturais\1_Adapter\Adapter1\Adapter1\bin\Debug\net5.0\Adapter1.pdb
+D:\_serie_design_patterns\__Estruturais\1_Adapter\Adapter1\Adapter1\obj\Debug\net5.0\Adapter1.dll
+D:\_serie_design_patterns\__Estruturais\1_Adapter\Adapter1\Adapter1\obj\Debug\net5.0\ref\Adapter1.dll
+D:\_serie_design_patterns\__Estruturais\1_Adapter\Adapter1\Adapter1\obj\Debug\net5.0\Adapter1.pdb
+D:\_serie_design_patterns\__Estruturais\1_Adapter\Adapter1\Adapter1\obj\Debug\net5.0\Adapter1.genruntimeconfig.cache
